@@ -1,0 +1,285 @@
+{
+  "skins": [
+    {
+      "localization_name": "FatSanta",
+      "geometry": "geometry.Festive.FatSanta",
+      "texture": "FatSanta.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteveXmasSweater2",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater2",
+      "texture": "XmasHerobrine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SmallElf1",
+      "geometry": "geometry.FestiveMashup.SmallElf2",
+      "texture": "SmallElf1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SmallElf2",
+      "geometry": "geometry.FestiveMashup.SmallElf2",
+      "texture": "SmallElf2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SmallElf3",
+      "geometry": "geometry.FestiveMashup.SmallElf3",
+      "texture": "SmallElf3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EvilElf",
+      "geometry": "geometry.FestiveMashup.SmallElf2",
+      "texture": "EvilElf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "GreenSanta",
+      "geometry": "geometry.FestiveMashup.GreenSanta",
+      "texture": "GreenSanta.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BlueSanta",
+      "geometry": "geometry.FestiveMashup.BlueSanta",
+      "texture": "BlueSanta.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dasher",
+      "geometry": "geometry.Festive.Dasher",
+      "texture": "Dasher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dancer",
+      "geometry": "geometry.Festive.Dancer",
+      "texture": "Dancer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Prancer",
+      "geometry": "geometry.Festive.Prancer",
+      "texture": "Prancer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vixen",
+      "geometry": "geometry.Festive.Vixen",
+      "texture": "Vixen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Comet",
+      "geometry": "geometry.Festive.Comet",
+      "texture": "Comet.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cupid",
+      "geometry": "geometry.Festive.Cupid",
+      "texture": "Cupid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Donner",
+      "geometry": "geometry.Festive.Donner",
+      "texture": "Donner.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Blitzen",
+      "geometry": "geometry.Festive.Blitzen",
+      "texture": "Blitzen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rudolph",
+      "geometry": "geometry.Festive.Rudolph",
+      "texture": "Rudolph.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SnowFlake",
+      "geometry": "geometry.FestiveMashup.ScottishSteveXmasSweater",
+      "texture": "SnowFlake.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Stocking",
+      "geometry": "geometry.FestiveMashup.Stocking",
+      "texture": "Stocking.png",
+      "animations": {
+        "move.legs": "animation.player.move.legs.single"
+      },
+      "hide_armor": true,
+      "type": "free"
+    },
+    {
+      "localization_name": "CandycaneStick",
+      "geometry": "geometry.FestiveMashup.CandycaneStick",
+      "texture": "CandycaneStick.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bigfoot",
+      "geometry": "geometry.Festive.Bigfoot",
+      "texture": "Bigfoot.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Yeti",
+      "geometry": "geometry.Festive.Yeti",
+      "texture": "Yeti.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Krampus",
+      "geometry": "geometry.Festive.Krampus",
+      "texture": "Krampus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SteveXmasSweater",
+      "texture": "SteveXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TennisSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.TennisSteveXmasSweater",
+      "texture": "TennisSteveXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TuxedoSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.FestiveMashupTuxedoSteveXmasSweater",
+      "texture": "TuxedoSteveXmas.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AthleteSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.AthleteSteveXmasSweater",
+      "texture": "AthleteSteveXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ScottishSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.ScottishSteveXmasSweater",
+      "texture": "ScottishSteveXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PrisonerSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.PrisonerSteveXmasSweater",
+      "texture": "PrisonerSteveXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyclistSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.CyclistSteveXmasSweater",
+      "texture": "CyclistSteveXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BoxerSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.BoxerSteveXmasSweater",
+      "texture": "BoxerSteveXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AlexXmasSweater",
+      "geometry": "geometry.FestiveMashup.AlexXmasSweater",
+      "texture": "AlexXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TennisAlexXmasSweater",
+      "geometry": "geometry.FestiveMashup.TennisAlexXmasSweater",
+      "texture": "TennisAlexXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FestiveMashupTuxedoAlexXmasSweater",
+      "geometry": "geometry.FestiveMashup.FestiveMashupTuxedoAlexXmasSweater",
+      "texture": "TuxedoAlexXmas.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AthleteAlexXmasSweater",
+      "geometry": "geometry.FestiveMashup.AthleteAlexXmasSweater",
+      "texture": "AthleteAlexXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ScottishAlexXmasSweater",
+      "geometry": "geometry.FestiveMashup.ScottishAlexXmasSweater",
+      "texture": "ScottishAlexXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PrisonerAlexXmasSweater",
+      "geometry": "geometry.FestiveMashup.PrisonerAlexXmasSweater",
+      "texture": "PrisonerAlexXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyclistAlexXmasSweater",
+      "geometry": "geometry.FestiveMashup.CyclistAlexXmasSweater",
+      "texture": "CyclistAlexXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BoxerAlexXmasSweater",
+      "geometry": "geometry.FestiveMashup.BoxerAlexXmasSweater",
+      "texture": "BoxerAlexXmasSweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SkiSteve",
+      "geometry": "geometry.FestiveMashup.SkiSteve",
+      "texture": "SkiSteve.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.single",
+        "move.legs": "animation.player.move.legs.stationary"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "SnowShoeSteve",
+      "geometry": "geometry.FestiveMashup.SnowShoeSteve",
+      "texture": "SnowShoeSteve.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tomte",
+      "geometry": "geometry.FestiveMashup.FestiveMashuptomte",
+      "texture": "Tomte.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TreeFairy",
+      "geometry": "geometry.FestiveMashup.TreeFairy",
+      "texture": "TreeFairy.png",
+      "animations": {
+        "move.legs": "animation.player.move.legs.stationary"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "FemaleSkier",
+      "geometry": "geometry.FestiveMashup.Skier",
+      "texture": "FemaleSkier.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.single",
+        "move.legs": "animation.player.move.legs.stationary"
+      },
+      "type": "free"
+    }
+  ],
+  "serialize_name": "FestiveSkins",
+  "localization_name": "FestiveSkins"
+}
