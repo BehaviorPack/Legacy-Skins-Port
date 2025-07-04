@@ -97,7 +97,7 @@ export class Viewer {
     if (parent && parent !== window) {
       parent.postMessage("loaded");
     } else {
-      this.load_url("Festive Skins 2014.zip").catch((err) => {
+      this.load_url(encodeURIComponent("Festive Skins 2014.zip")).catch((err) => {
         console.warn("Failed to auto-load Festive Skins 2014.zip:", err);
         this.drag_drop_notify.style.display = "";
       });
@@ -156,13 +156,13 @@ export class Viewer {
    * @param {string} ext
    */
   async load_blob(blob, ext) {
+    this.drag_drop_notify.style.display = "none";
     window.scene_skinpacks = this.loaded_models;
 
     if (["zip", "mcpack", "mcpersona"].includes(ext)) {
       this.loaded_models.clear();
       const loader = new SkinpackLoader();
       const meshes = await loader.loadAsync(blob);
-      this.drag_drop_notify.style.display = "none";
       for (const mesh of meshes) {
         this.addSkin(mesh);
       }
