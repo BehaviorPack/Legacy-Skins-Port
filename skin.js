@@ -153,7 +153,7 @@ function SkinMaterial(texture) {
             vec2 pixelSize = 1.0 / vec2(textureSize(map, 0)); // Calculate the size of one pixel
             vec2 adjustedUv = vUv + 0.5 * pixelSize; 
             vec2 clampedUv = clamp(vUv, 0.0, 1.0); 
-            vec4 color = texture2D(map, clampedUv);
+            vec4 color = texture2D(map, adjustedUv);
 
             if (color.a < 0.01) discard;
 
@@ -205,7 +205,7 @@ function SkinTexture(texture) {
   texture.minFilter = THREE.NearestFilter;
   texture.wrapS = THREE.ClampToEdgeWrapping;
   texture.wrapT = THREE.ClampToEdgeWrapping;
-  texture.generateMipmaps = false;
+  texture.generateMipmaps = true;
   texture.needsUpdate = true;
   return texture;
 }
