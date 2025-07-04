@@ -104,7 +104,7 @@
     },
     {
       "localization_name": "SnowFlake",
-      "geometry": "geometry.FestiveMashup.ScottishSteveXmasSweater",
+      "geometry": "geometry.FestiveMashup.SnowFlake",
       "texture": "SnowFlake.png",
       "type": "free"
     },
@@ -155,7 +155,7 @@
       "type": "free"
     },
     {
-      "localization_name": "TuxedoSteveXmasSweater",
+      "localization_name": "FestiveMashupTuxedoSteveXmasSweater",
       "geometry": "geometry.FestiveMashup.FestiveMashupTuxedoSteveXmasSweater",
       "texture": "TuxedoSteveXmas.png",
       "type": "free"
