@@ -1,0 +1,59 @@
+{
+  "skins": [
+    {
+      "localization_name": "Sycorax",
+      "geometry": "geometry.DrWho2.Sycorax",
+      "texture": "Sycorax.png",
+      "cape": "Sycorax_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FishformSaturnynian",
+      "geometry": "geometry.DrWho2.FishformSaturnynian",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie",
+        "move.legs": "animation.player.move.legs.single"
+      },
+      "texture": "FishformSaturnynian.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AngelofLiberty",
+      "geometry": "geometry.DrWho1.AngelofLiberty",
+      "animations": {
+        "move.arms": "animation.player.move.arms.statue_of_liberty"
+      },
+      "texture": "AngelofLiberty.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nathan",
+      "geometry": "geometry.3rdBirthday.Nathan",
+      "texture": "Nathan.png",
+      "animations": {
+        "humanoid_base_pose": "animation.player.base_pose.upside_down"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Nathan1",
+      "geometry": "geometry.3rdBirthday.Nathan1",
+      "texture": "Nathan.png",
+      "animations": {
+        "sneaking": "animation.player.sneaking.inverted"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "R2D2",
+      "geometry": "geometry.StarWarsClassic.R2D2",
+      "texture": "R2D2.png",
+      "animations": {
+        "sneaking": "animation.player.sneaking.inverted"
+      },
+      "type": "free"
+    }
+  ],
+  "serialize_name": "LegacySkinPack",
+  "localization_name": "LegacySkinPack"
+}
